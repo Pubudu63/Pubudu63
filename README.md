@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pubudu Ravishan</h1>
 <h3 align="center">A passionate developer from Sri Lanka</h3>
-<im">g src = "https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?w=900&t=st=1676089070~exp=1676089670~hmac=5c0d6b90195e212d8e126b7f5240fea295400ba71f8b51bbe985702c67ed6dc4">
+<img src = "https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?w=900&t=st=1676089070~exp=1676089670~hmac=5c0d6b90195e212d8e126b7f5240fea295400ba71f8b51bbe985702c67ed6dc4">
 - 🌱 I’m currently learning **Internet-Technologies**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pubudu63/MyProfile](https://github.com/Pubudu63/MyProfile)
