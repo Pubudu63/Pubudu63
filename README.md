@@ -1,3 +1,4 @@
+<img src="![image](https://user-images.githubusercontent.com/124337745/218238585-109232cd-9841-45d8-bbe1-0531dd880b0e.png)">
 <h1 align="center">Hi 👋, I'm Pubudu Ravishan</h1>
 <h3 align="center">A passionate developer from Sri Lanka</h3>
 
